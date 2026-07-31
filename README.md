@@ -6,7 +6,7 @@
 
 [![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQLSQL-Database-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)]()
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)]()
 [![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)]()
 [![RapidOCR](https://img.shields.io/badge/RapidOCR-OCR-success?style=for-the-badge)]()
 
